@@ -1,0 +1,17 @@
+body {
+    font-family: arial;
+    background-color: black;
+    color: white;
+}
+
+.datetime {
+    top: 0;
+    right: 0;
+    position: absolute;
+    width: 250px;
+    height: 200px;
+}
+
+.dateentry {
+  display: table;
+}
